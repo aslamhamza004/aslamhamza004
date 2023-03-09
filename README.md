@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aslamhamza004
 - 👀 I’m interested in programming.
-- 🌱 I’m currently working on MEAN stack development.
+- 🌱 I’m currently working on MEAN | MERN stack development.
 - 💞️ I’m looking to collaborate on long project.
 - 📫 you can reach me through my email.
 - 
