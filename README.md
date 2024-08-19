@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aslamhamza004
 - 👀 I’m interested in programming.
 - 🌱 I’m currently working on Full stack stack development.
-- 💞️ I’m looking to collaborate on long project.
+- 💞️ I’m looking to collaborate on both long or short term projects.
 - 📫 you can reach me through my email.
 - my upwork# https://www.upwork.com/freelancers/~01f9ba87725a66d16e
 
